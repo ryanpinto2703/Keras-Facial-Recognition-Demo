@@ -17,3 +17,7 @@ This demo is intended for educational purposes and is not a production-level bio
 Dataset used: **Labeled Faces in the Wild (LFW)**
 
 The dataset is loaded directly using scikit-learn
+
+## Required Libraries
+
+tensorflow scikit-learn matplotlib numpy
